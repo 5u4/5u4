@@ -1,15 +1,16 @@
 <div align="center">
 <h1>Sen Hung Wong</h1>
-<span>MScIT @ <a href="https://hkust.edu.hk/">HKUST</a></span>
+<span>DevOps Developer @ <a href="https://www.fortinet.com/">Fortinet</a></span>
 </div>
 
 <img align="right" src="/assets/me-nobg.png" width="230px" height="230px">
 
 #### 🏢 Worked At
 
-- Hong Kong Asian Ark Technologies
-- SAP SE
-- Blockchain Intelligence Group
+- Fortinet (DevOps Developer)
+- Hong Kong Asian Ark Technologies (Software Developer Intern)
+- SAP SE (Agile Developer Intern)
+- Blockchain Intelligence Group (Back End Developer Intern)
 
 #### ✨ Interested In
 
