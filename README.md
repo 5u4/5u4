@@ -8,7 +8,7 @@
 
 #### 🏢 Worked At
 
-- Microsoft (Software Developer II)
+- Microsoft (Software Engineer II)
 - Fortinet (DevOps Developer)
 - Hong Kong Asian Ark Technologies (Software Developer Intern)
 - SAP (Agile Developer Intern)
