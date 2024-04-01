@@ -1,15 +1,17 @@
 <div align="center">
 <h1>Sen Hung Wong</h1>
-<span>DevOps Developer @ <a href="https://www.fortinet.com/">Fortinet</a></span>
+<span>Software Engineer @ <a href="https://microsoft.com/">Microsoft</a></span>
+<p><a href="https://cv.wsenh.com">https://cv.wsenh.com</a></p>
 </div>
 
 <img align="right" src="/assets/me-nobg.png" width="230px" height="230px">
 
 #### 🏢 Worked At
 
+- Microsoft (Software Developer II)
 - Fortinet (DevOps Developer)
 - Hong Kong Asian Ark Technologies (Software Developer Intern)
-- SAP SE (Agile Developer Intern)
+- SAP (Agile Developer Intern)
 - Blockchain Intelligence Group (Back End Developer Intern)
 
 #### ✨ Interested In
